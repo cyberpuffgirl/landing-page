@@ -1,0 +1,49 @@
+body {
+    height: 100vh;
+    background-color:rgb(235, 252, 220);
+}
+/* -------------------------------------------------------------------------- */
+/*Header section*/
+/* -------------------------------------------------------------------------- */
+header {
+
+}
+
+
+#neon {
+    width: 300px;
+}
+
+ul, .links {
+    list-style-type: none;
+    text-decoration: none;
+    gap: 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#push {
+    margin-left: auto;
+    margin: 0;
+    width: 100%;
+}
+
+
+.mid-header {
+
+}
+/* -------------------------------------------------------------------------- */
+/*Main content section*/
+/* -------------------------------------------------------------------------- */
+.content {
+
+}
+
+.section1 {
+
+}
+
+.section2 {
+
+}
