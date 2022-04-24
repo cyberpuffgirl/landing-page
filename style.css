@@ -6,7 +6,7 @@ body {
 /*Header section*/
 /* -------------------------------------------------------------------------- */
 header {
-
+    background-color:rgb(32, 51, 32);
 }
 
 
@@ -21,6 +21,7 @@ ul, .links {
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    height: 40px;
 }
 
 #push {
@@ -31,11 +32,25 @@ ul, .links {
 
 
 .mid-header {
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    margin: 0;
+    gap: 10px;
 }
+
+.right-mid {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+
 /* -------------------------------------------------------------------------- */
 /*Main content section*/
 /* -------------------------------------------------------------------------- */
+
 .content {
 
 }
