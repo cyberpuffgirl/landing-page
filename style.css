@@ -2,6 +2,8 @@ body {
     height: 100vh;
     background-color:rgb(235, 252, 220);
 }
+
+
 /* -------------------------------------------------------------------------- */
 /*Header section*/
 /* -------------------------------------------------------------------------- */
@@ -38,6 +40,7 @@ ul, .links {
     height: 500px;
     margin: 0;
     gap: 10px;
+    padding: 0 15px 15px 15px;
 }
 
 .right-mid {
@@ -47,18 +50,36 @@ ul, .links {
     height: 100%;
 }
 
-/* -------------------------------------------------------------------------- */
+
 /*Main content section*/
-/* -------------------------------------------------------------------------- */
 
 .content {
 
 }
 
 .section1 {
+    display: flex;
+}
 
+h2 {
+    text-align: center;
 }
 
 .section2 {
+    text-align: center;
+}
 
+.section3 {
+    display: flex;
+    justify-content: center;
+}
+
+.join-me {
+    display: flex;
+}
+
+/*footer*/ 
+
+footer {
+    text-align: center;
 }
