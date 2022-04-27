@@ -141,4 +141,6 @@ figure {
 footer {
     text-align: center;
     background-color: rgb(32, 51, 32);
+    margin-top: 0;
+    padding: 10px;
 }
