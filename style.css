@@ -31,9 +31,8 @@ ul, .links {
     height: 40px;
 }
 
-#push {
+#push-logo {
     margin-left: auto;
-    margin: 0;
     width: 100%;
 }
 
@@ -126,6 +125,18 @@ figure {
 
 .join-me {
     display: flex;
+    background-color:rgb(32, 51, 32);
+    padding: 20px;
+    border: 8px;
+    width: 60%;
+    border-radius: 5px;
+    font-size: 14px;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+#push-button {
 }
 
 /*footer*/ 
