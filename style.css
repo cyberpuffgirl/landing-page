@@ -54,22 +54,32 @@ ul, .links {
 /*Main content section*/
 
 .content {
+}
 
+.section1, .section3 {
+    background-color: rgb(243, 234, 234);
 }
 
 .section1 {
     display: flex;
+    height: auto;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
 }
 
 h2 {
     text-align: center;
+    background-color: rgb(243, 234, 234);
+    margin: 0;
 }
 
 .round {
     border: 8px double rgb(161, 51, 88);
     border-radius: 30px;
-    height: 180px;
-    width: 200px;
+    height: 150px;
+    width: 170px;
 }
 
 .fit {
@@ -78,11 +88,14 @@ h2 {
 
 .section2 {
     text-align: center;
+    background-color: rgb(146, 140, 140);
+    padding: 30px;
 }
 
 .section3 {
     display: flex;
     justify-content: center;
+    padding: 30px;
 }
 
 .join-me {
