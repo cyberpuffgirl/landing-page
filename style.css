@@ -1,17 +1,15 @@
 body {
     height: 100vh;
     width: 85%;
-    background-color:rgb(235, 252, 220);
+    background-color:rgb(105, 105, 105);
     font-family: Monaco, "Courier New", monospace;
     margin-right: auto;
     margin-left: auto;
     padding: 0 20px 0 20px;
 }
 
-
-/* -------------------------------------------------------------------------- */
 /*Header section*/
-/* -------------------------------------------------------------------------- */
+
 header {
     background-color:rgb(32, 51, 32);
 }
@@ -65,7 +63,7 @@ ul, .links {
 }
 
 .section1, .section3 {
-    background-color: rgb(243, 234, 234);
+    background-color: rgb(244, 255, 241);
 }
 
 .section1 {
@@ -80,7 +78,7 @@ ul, .links {
 
 h2 {
     text-align: center;
-    background-color: rgb(243, 234, 234);
+    background-color: rgb(244, 255, 241);
     margin: 0;
     padding-top: 30px;
 }
@@ -102,7 +100,7 @@ figure {
 }
 
 .section2 {
-    background-color: rgb(146, 140, 140);
+    background-color: rgb(212, 219, 211);
     display: flex;
     justify-content: center;
     align-items: center;
