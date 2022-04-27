@@ -16,7 +16,6 @@ header {
     background-color:rgb(32, 51, 32);
 }
 
-
 #neon {
     width: 300px;
 }
@@ -29,6 +28,7 @@ ul, .links {
     justify-content: flex-end;
     align-items: center;
     height: 40px;
+    padding: 4px 8px 0px 8px;
 }
 
 #push-logo {
@@ -125,7 +125,7 @@ figure {
 
 .join-me {
     display: flex;
-    background-color:rgb(32, 51, 32);
+    background-color:rgb(73, 190, 73);
     padding: 20px;
     border: 8px;
     width: 60%;
@@ -136,11 +136,9 @@ figure {
     gap: 40px;
 }
 
-#push-button {
-}
-
 /*footer*/ 
 
 footer {
     text-align: center;
+    background-color: rgb(32, 51, 32);
 }
