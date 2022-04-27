@@ -65,6 +65,17 @@ h2 {
     text-align: center;
 }
 
+.round {
+    border: 8px double rgb(161, 51, 88);
+    border-radius: 30px;
+    height: 180px;
+    width: 200px;
+}
+
+.fit {
+    object-fit: cover;
+}
+
 .section2 {
     text-align: center;
 }
