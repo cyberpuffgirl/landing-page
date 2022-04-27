@@ -43,16 +43,18 @@ ul, .links {
     justify-content: center;
     align-items: center;
     height: 500px;
-    margin: 0;
     gap: 10px;
     padding: 0 15px 15px 15px;
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .right-mid {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 100%;
+    align-items: flex-start;
 }
 
 
