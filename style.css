@@ -79,6 +79,11 @@ a:hover {
     font-weight: 700;
 }
 
+.button1:hover {
+    background-color: #5dff4f;
+    color: rgb(249, 255, 240);
+}
+
 /*Main content section*/
 
 .content {
@@ -177,6 +182,11 @@ figure {
     border-radius: 5px;
     padding: 6px 25px 6px 25px;
     font-weight: 700;
+}
+
+.button2:hover {
+    background-color: #5dff4f;
+    color: rgb(249, 255, 240);
 }
 
 /*footer*/ 
