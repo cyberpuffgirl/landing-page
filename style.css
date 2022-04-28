@@ -1,6 +1,6 @@
 body {
     height: 100vh;
-    width: 85%;
+    width: 75%;
     background-color:rgb(105, 105, 105);
     font-family: Monaco, "Courier New", monospace;
     margin-right: auto;
@@ -27,7 +27,10 @@ ul, .links {
     justify-content: flex-end;
     align-items: center;
     height: 40px;
-    padding: 4px 8px 0px 8px;
+}
+
+ul {
+    padding: 4px 15px 0px 15px;
 }
 
 #logo {
