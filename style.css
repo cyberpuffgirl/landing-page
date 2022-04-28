@@ -33,6 +33,7 @@ ul, .links {
 #logo {
     margin-left: auto;
     width: 100%;
+    font-weight: 900;
 }
 
 a {
