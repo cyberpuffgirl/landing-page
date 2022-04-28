@@ -40,14 +40,16 @@ ul {
 }
 
 a {
-    color:rgb(128, 16, 31)
+    color:rgb(189, 8, 8)
 }
+
 a:visited {
     color:rgb(136, 80, 158);
 }
 
 a:hover {
-    color:rgb(160, 26, 44);
+    color:rgb(255, 86, 156);
+    text-decoration: underline;
 }
 
 .mid-header {
