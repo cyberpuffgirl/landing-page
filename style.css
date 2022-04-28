@@ -135,6 +135,7 @@ figure {
 .section2 {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     background-color: rgb(212, 219, 211);
     padding: 30px;
     margin-right: 0;
